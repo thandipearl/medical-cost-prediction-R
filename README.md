@@ -88,6 +88,8 @@ plot(insurance_data[,num_cols])
 
 This produces scatterplots comparing all numerical variables against each other.
 
+<img width="866" height="592" alt="DA1" src="https://github.com/user-attachments/assets/13ea2010-2faf-46b3-9f31-82152d864139" />
+
 ### Example insights from the plots
 
 - **Age vs Charges**
@@ -99,9 +101,8 @@ This produces scatterplots comparing all numerical variables against each other.
 - **Children vs Charges**
   - There is no strong visual trend, but some variation exists.
 
-<img width="866" height="592" alt="DA1" src="https://github.com/user-attachments/assets/13ea2010-2faf-46b3-9f31-82152d864139" />
 
-
+------------------------------------------------------------------------------------------------------------
 # Correlation Analysis
 
 Next, we measure the strength of relationships between numerical variables using a **correlation matrix**.
