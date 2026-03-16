@@ -3,6 +3,9 @@
 ## Project Overview
 This project demonstrates how **data science and statistical modeling** can be used to predict medical insurance costs.
 
+<img width="1000" height="630" alt="medical" src="https://github.com/user-attachments/assets/1f5fc242-25cf-458a-aeac-9bfd9b267b05" />
+
+
 Insurance companies face a critical challenge:
 
 - If they charge **premiums that are too high**, they risk losing customers.
