@@ -99,9 +99,8 @@ This produces scatterplots comparing all numerical variables against each other.
 - **Children vs Charges**
   - There is no strong visual trend, but some variation exists.
 
-📷 Insert scatterplot matrix image here
+<img width="866" height="592" alt="DA1" src="https://github.com/user-attachments/assets/13ea2010-2faf-46b3-9f31-82152d864139" />
 
----
 
 # Correlation Analysis
 
