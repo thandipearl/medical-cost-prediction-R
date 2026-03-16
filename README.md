@@ -54,7 +54,7 @@ Our objective is to **predict these charges** using the other variables.
 
 ---
 
-# Step 1 — Loading the Dataset
+# Loading the Dataset
 
 The first step is to load the dataset into **RStudio**.
 
@@ -73,7 +73,7 @@ Once the data is loaded, we can begin **Exploratory Data Analysis (EDA)** to und
 
 ---
 
-# Step 2 — Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA)
 
 EDA helps us understand how variables interact before building a predictive model.
 
@@ -103,7 +103,7 @@ This produces scatterplots comparing all numerical variables against each other.
 
 ---
 
-# Step 3 — Correlation Analysis
+# Correlation Analysis
 
 Next, we measure the strength of relationships between numerical variables using a **correlation matrix**.
 
@@ -130,7 +130,7 @@ Although correlations are not extremely high, they still provide useful predicti
 
 ---
 
-# Step 4 — Analyzing Categorical Variables
+# Analyzing Categorical Variables
 
 Some variables are **categorical**, meaning they represent categories rather than numeric values.
 
@@ -179,7 +179,7 @@ boxplot(insurance_data$charges ~ region, main = "region")
 
 ---
 
-# Step 5 — Building the Linear Regression Model
+# Building the Linear Regression Model
 
 After understanding the data, we build a **linear regression model** to predict medical charges.
 
