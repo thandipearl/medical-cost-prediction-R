@@ -156,9 +156,9 @@ boxplot(insurance_data$charges ~ sex, main = "sex")
 boxplot(insurance_data$charges ~ region, main = "region")
 ```
 
-📷 Insert smoker boxplot image here  
-📷 Insert sex boxplot image here  
-📷 Insert region boxplot image here  
+
+<img width="608" height="585" alt="plot1" src="https://github.com/user-attachments/assets/74633745-de84-4386-ba4e-5da25e706b24" />   <img width="615" height="583" alt="plot2" src="https://github.com/user-attachments/assets/ad74c9ca-462b-4dc6-8830-07f22ac30b2c" />   <img width="614" height="583" alt="plot3" src="https://github.com/user-attachments/assets/b45b7286-b7b4-4011-bf73-572bb104ad85" /> 
+
 
 ### Insights
 
