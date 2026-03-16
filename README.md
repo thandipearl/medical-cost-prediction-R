@@ -1,6 +1,3 @@
-# medical-cost-prediction-R
-Predicting medical insurance charges using exploratory data analysis and linear regression in R.
-
 # Insurance Cost Prediction Using Linear Regression (R)
 
 ## Project Overview
@@ -329,16 +326,3 @@ It is particularly relevant for roles in:
 
 ---
 
-# Adding Images to the README
-
-Place your images in a folder such as:
-
-```
-images/
-```
-
-Then reference them like this:
-
-```
-![EDA Scatterplots](images/scatterplots.png)
-```
